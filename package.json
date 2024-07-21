@@ -1,0 +1,11 @@
+{
+  "name": "hairday",
+  "description": "Aplicação Web para agendamentos de corte de cabelo",
+  "author": "Fellipe Silvestre",
+  "scripts": {
+    "server": "json-server --watch server.json --port 3333"
+  },
+  "dependencies": {
+    "json-server": "^1.0.0-alpha.21"
+  }
+}
