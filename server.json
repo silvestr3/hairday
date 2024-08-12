@@ -1,3 +1,14 @@
 {
-  "schedules": []
+  "schedules": [
+    {
+      "id": 1723471750793,
+      "name": "Fellipe Silvestre",
+      "when": "2024-08-12T16:00:00.000Z"
+    },
+    {
+      "id": 1723477016394,
+      "name": "Jaiko",
+      "when": "2024-08-12T18:00:00.000Z"
+    }
+  ]
 }
